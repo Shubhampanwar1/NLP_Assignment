@@ -22,6 +22,3 @@ This repository contains practical implementations of core Natural Language Proc
 ## 🛠️ Tech Stack
 * **Python**[cite: 1, 2]
 * **Libraries:** Pandas, NumPy, Scikit-learn, PyTorch, Gensim, Transformers (Hugging Face), Datasets, Matplotlib, Seaborn[cite: 1, 2]
-
----
-Feel free to explore the notebooks and code implementations!
